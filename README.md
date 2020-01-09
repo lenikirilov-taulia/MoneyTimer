@@ -1,6 +1,6 @@
 MONEY TIMER
 
-A desktop application written in Java Swing.
+A desktop application written in Java Swing...
 
 It is designed to calculate money wasted in a meeting / consultation etc
 
